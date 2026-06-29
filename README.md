@@ -39,6 +39,12 @@ Short version:
 4. Say: `Run Self Publishing AI Playbook setup`, or use `/run-self-publishing-ai-playbook-setup`.
 5. Then say: `Run published author navigator`.
 
+You can also paste this starter prompt into any Markdown-capable AI workspace:
+
+```text
+Read skills/self-publishing-ai-playbook-setup/SKILL.md and run the complete Self Publishing AI Playbook setup process. Ask where I am in my book project, collect the needed project context, create my project context block, and recommend the next skill to run.
+```
+
 ## Skill Directory
 
 ### Setup And Orchestration
@@ -144,15 +150,23 @@ For a first-class Codex or multi-IDE release, add a separate adapter layer inste
 - A short install guide for copying the `skills/` folder into the target IDE's skill or instruction system
 - Optional starter prompt: "Read `skills/self-publishing-ai-playbook-setup/SKILL.md` and run the setup process."
 
-## Open Source
+## License And Support
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
 
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), and [NOTICE.md](NOTICE.md).
+This repository is distributed as a standalone Gen AI University release. You may use, copy, modify, and adapt it under the MIT License.
+
+Gen AI University maintains this canonical package. Use GitHub Issues for install problems, packaging problems, broken links, or security concerns. For support expectations, see [SUPPORT.md](SUPPORT.md), [SECURITY.md](SECURITY.md), and [NOTICE.md](NOTICE.md).
 
 ## Attribution
 
-This project is inspired by concepts from Chandler Bolt's *Published: The Proven Path From Blank Page to 10,000 Copies Sold*. It is an independent Gen AI University project and is not affiliated with, endorsed by, sponsored by, or reviewed by Chandler Bolt, Amazon, Goodreads, Upwork, Fiverr, Anthropic, OpenAI, or any other third-party platform named in the skills. See [NOTICE.md](NOTICE.md).
+This project is inspired by concepts from Chandler Bolt's *Published: The Proven Path From Blank Page to 10,000 Copies Sold*. We encourage authors to read the book:
+
+- [Published on Amazon](https://www.amazon.com/dp/1539412334)
+
+Gen AI University is an affiliate partner of [Self Publishing School](https://selfpublishingschool.com/), which we refer clients to for world-class publishing guidance, coaching, accountability, and support. This package is an independent Gen AI University release, not an official Self Publishing School product.
+
+The Self Publishing AI Playbook is an experimental Gen AI University project designed to help authors use AI responsibly during the planning, drafting, editing, and launch process. Gen AI University also develops selfpublishing.ai tooling for first-draft and manuscript production workflows. AI can accelerate the work, but human guidance, judgment, voice, accountability, and care still matter. See [NOTICE.md](NOTICE.md).
 
 ## Learn More
 

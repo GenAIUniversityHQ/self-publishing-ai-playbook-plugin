@@ -35,6 +35,12 @@ Or use:
 /run-self-publishing-ai-playbook-setup
 ```
 
+If you are using a Markdown-friendly AI workspace instead of Claude plugins, paste this prompt:
+
+```text
+Read skills/self-publishing-ai-playbook-setup/SKILL.md and run the complete Self Publishing AI Playbook setup process. Ask where I am in my book project, collect the needed project context, create my project context block, and recommend the next skill to run.
+```
+
 The setup wizard collects:
 
 - Author name
@@ -92,3 +98,9 @@ The package is designed to work as:
 - A Claude Code plugin
 - A Claude Cowork plugin
 - A readable skill bundle for Codex-style agents that can follow Markdown instructions
+
+## Attribution
+
+This playbook is inspired by Chandler Bolt's book *Published*. We encourage you to read the book: https://www.amazon.com/dp/1539412334
+
+Gen AI University is an affiliate partner of Self Publishing School. This plugin helps accelerate AI-assisted planning, drafting, editing, and launch prep, but it is not a replacement for human publishing guidance, coaching, accountability, or author judgment.

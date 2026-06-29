@@ -1,0 +1,40 @@
+name: Package or install problem
+description: Report a problem with installing or loading the standalone plugin package.
+title: "[Package]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for installation, ZIP, plugin loading, broken-link, or security-adjacent package problems.
+
+        This issue tracker is not a roadmap, publishing coaching, or custom workflow support channel.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Download or ZIP
+        - Claude plugin install
+        - Skill not loading
+        - Broken link
+        - Documentation mismatch
+        - Security concern
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the package problem and what you expected instead.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Package version or release
+      placeholder: "v1.0.0"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Do not include API keys, private manuscripts, private emails, or personal contact lists.
