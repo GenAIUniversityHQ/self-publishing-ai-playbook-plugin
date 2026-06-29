@@ -1,0 +1,11 @@
+{
+  "name": "self-publishing-ai-playbook",
+  "version": "1.0.0",
+  "displayName": "self publishing ai playbook",
+  "description": "The Self Publishing AI Playbook: AI skills for publishing your book in 90 days, inspired by Chandler Bolt's bestselling book \"Published\"",
+  "homepage": "https://genaiuniversity.com",
+  "author": {
+    "name": "Gen AI University"
+  },
+  "license": "MIT"
+}

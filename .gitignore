@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+
+# Local project context created during setup
+skills/self-publishing-ai-playbook-setup/CONTEXT.md
+CONTEXT.md
+
+# Node
+node_modules/
