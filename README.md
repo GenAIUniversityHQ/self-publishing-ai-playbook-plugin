@@ -166,7 +166,7 @@ This project is inspired by concepts from Chandler Bolt's *Published: The Proven
 
 Gen AI University is an affiliate partner of [Self Publishing School](https://selfpublishingschool.com/), which we refer clients to for world-class publishing guidance, coaching, accountability, and support. This package is an independent Gen AI University release, not an official Self Publishing School product.
 
-The Self Publishing AI Playbook is an experimental Gen AI University project designed to help authors use AI responsibly during the planning, drafting, editing, and launch process. Gen AI University also develops selfpublishing.ai tooling for first-draft and manuscript production workflows. AI can accelerate the work, but human guidance, judgment, voice, accountability, and care still matter. See [NOTICE.md](NOTICE.md).
+The Self Publishing AI Playbook is an experimental Gen AI University project designed to help authors use AI responsibly during the planning, drafting, editing, and launch process. Gen AI University also architects custom [selfpublishing.ai](https://selfpublishing.ai) systems for first-draft and manuscript production workflows. AI can accelerate the work, but human guidance, judgment, voice, accountability, and care still matter. See [NOTICE.md](NOTICE.md).
 
 ## Learn More
 

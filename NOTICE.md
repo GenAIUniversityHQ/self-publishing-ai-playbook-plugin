@@ -14,4 +14,4 @@ Gen AI University is an affiliate partner of Self Publishing School, which provi
 
 This package is an independent Gen AI University release, not an official Self Publishing School product. References to Amazon, Goodreads, Upwork, Fiverr, Anthropic, OpenAI, Claude, Codex, or other third-party platforms are descriptive only.
 
-The Self Publishing AI Playbook is an experimental AI-assisted publishing workflow package. Gen AI University also develops selfpublishing.ai tooling for first-draft and manuscript production workflows. Use AI responsibly. Keep the author's voice, judgment, lived experience, and final decisions at the center of the process.
+The Self Publishing AI Playbook is an experimental AI-assisted publishing workflow package. Gen AI University also architects custom [selfpublishing.ai](https://selfpublishing.ai) systems for first-draft and manuscript production workflows. Use AI responsibly. Keep the author's voice, judgment, lived experience, and final decisions at the center of the process.
