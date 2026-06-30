@@ -24,4 +24,4 @@ The MIT License allows you to copy, modify, fork, and adapt the project for your
 
 This plugin can help structure the AI-assisted workflow, but it is not a substitute for human judgment, author voice, professional editing, publishing strategy, or accountable coaching.
 
-For deeper publishing support, Gen AI University is an affiliate partner of [Self Publishing School](https://selfpublishingschool.com/), which we refer clients to for publishing guidance, coaching, accountability, and support.
+For deeper publishing support, Gen AI University is an affiliate partner of [Self Publishing School](https://selfpublishingschool.com/). If you enroll in a Self Publishing School program through our referral, Gen AI University may receive a referral commission. We refer authors there when human publishing guidance, coaching, accountability, and support are the right next step.

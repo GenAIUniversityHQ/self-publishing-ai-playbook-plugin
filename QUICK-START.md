@@ -103,4 +103,4 @@ The package is designed to work as:
 
 This playbook is inspired by Chandler Bolt's book *Published*. We encourage you to read the book: https://www.amazon.com/dp/1539412334
 
-Gen AI University is an affiliate partner of Self Publishing School. This plugin helps accelerate AI-assisted planning, drafting, editing, and launch prep, but it is not a replacement for human publishing guidance, coaching, accountability, or author judgment.
+Gen AI University is an affiliate partner of Self Publishing School. If you enroll in a Self Publishing School program through our referral, Gen AI University may receive a referral commission. This plugin helps accelerate AI-assisted planning, drafting, editing, and launch prep, but it is not a replacement for human publishing guidance, coaching, accountability, or author judgment.
